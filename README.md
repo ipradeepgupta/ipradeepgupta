@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pradeep Gupta</h1>
-<h3 align="center">A passionate React Native Android & iOS Developer from India</h3>
+<h3 align="center">A Passionate React Native Android & iOS Developer from India</h3>
 
 <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952wu1qae808lglrvsmy2iwkprvhcyxygls485tzo4f&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300" height="300">
 
-- 💬 Ask me about **React, Redux Toolkit, Firebase Payment Gateways, Third Party Module integration**
+- 💬 Ask me about **React Native, Redux Toolkit, Firebase Payment Gateways, Third Party Module integration**
 
 - 📫 How to reach me **pradeepmangal53@gmail.com**
 
